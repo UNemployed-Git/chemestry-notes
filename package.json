@@ -1,7 +1,7 @@
 {
-	"name": "uv-app",
+	"name": "chemestry notes",
 	"version": "1.0.0",
-	"description": "Ultraviolet instance",
+	"description": "chemestry notes",
 	"type": "module",
 	"engines": {
 		"node": ">=24.0.0"
